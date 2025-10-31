@@ -1,7 +1,7 @@
 # BesselK — Modified Bessel Functions of the Second Kind (PyTorch)
 
 A lightweight, autograd-friendly implementation of the **modified Bessel functions of the second kind**  
-\( K_\nu(x) \) for integer orders using **PyTorch**, supporting both CPU and GPU.
+\( K_\nu(x) \) for integer orders using **PyTorch**.
 
 ## Features
 
